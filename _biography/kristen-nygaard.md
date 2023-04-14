@@ -10,6 +10,6 @@ tags:
   - Alan Kay
   - Smalltalk
   - Γλώσσες Προγραμματισμού
- ---
+---
 
 {% include bio-nygaard.md %}
